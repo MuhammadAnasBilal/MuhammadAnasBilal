@@ -49,16 +49,6 @@ me.say_hi()
 
 ---
 
-## 🏅 Holopin Badges
-
-<div align="center">
-
-[![@muhammadanasbilal's Holopin board](https://holopin.me/muhammadanasbilal)](https://holopin.io/@muhammadanasbilal)
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -112,9 +102,8 @@ me.say_hi()
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAnasBilal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAnasBilal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=3&title=Repositories,Commits,PullRequest"/>
 </div>
 
 ---
